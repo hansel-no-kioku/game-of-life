@@ -1,0 +1,22 @@
+{
+  "name": "game-of-life",
+  "devDependencies": {
+    "purescript-prelude": "^4.1.0",
+    "purescript-console": "^4.1.0",
+    "purescript-effect": "^2.0.0",
+    "purescript-psci-support": "^4.0.0",
+    "purescript-phinajs": "^0.1.8",
+    "purescript-arrays": "^5.0.0",
+    "purescript-foldable-traversable": "^4.0.0",
+    "purescript-maybe": "^4.0.0",
+    "purescript-random": "^4.0.0",
+    "purescript-tuples": "^5.0.0",
+    "purescript-signal": "^10.1.0",
+    "purescript-newtype": "^3.0.0",
+    "purescript-refs": "^4.1.0",
+    "purescript-aff": "^5.0.2",
+    "purescript-control": "^4.1.0",
+    "purescript-integers": "^4.0.0"
+  },
+  "private": true
+}
